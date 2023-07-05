@@ -1,2 +1,2 @@
 # projWeb
-Projeto de Repositório de Conteúdo Educacional (Docentes) - Desenvolvimento de Aplicações Web
+Projeto de Repositório de Conteúdo Educacional (Help-Docentes) - Desenvolvimento de Aplicações Web
